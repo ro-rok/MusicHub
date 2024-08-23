@@ -143,8 +143,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Here is the link to the original project with all the commits and branches:
 [MusicHUB](https://github.com/ro-rok/rk868-is601-007/tree/main/Spotify_Project)
 
-## Contact 📧
-
-For any queries, reach out to the project maintainers at [ [email protected](mailto: rk178999@gmail.com)].
-
-```
